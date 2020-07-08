@@ -1,0 +1,83 @@
+body {
+  margin : 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+
+h1{
+  color: #66bfbf;
+  font-size: 90px;
+  line-height: 1.8;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2{
+  color: #66bfbf;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color:#11999e;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.para{
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #66bfbf;
+}
+
+.top-container {
+  background-color: #e4f9f5;          /* PADDING does not change height of the box */
+  padding-top: 120px;
+  position: relative;
+
+}
+
+.middle-container{
+  margin-top: 50px;
+  position: relative;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 60px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 320px;
+}
+
+.badminton{
+     border-radius: 100%;
+     width: 25%;
+     float: right;
+     margin-left: 30px;
+}
+.camera{
+  width:25%;
+  float: left;
+  margin-right: 30px;
+}
+.circular{
+  border-radius: 100%;
+}
+.
