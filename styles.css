@@ -80,4 +80,45 @@ h3 {
 .circular{
   border-radius: 100%;
 }
-.
+hr{
+  border : none;
+  border-top-style: dotted;
+  border-color: grey ;
+  border-width: 5px;
+  width: 5%;
+}
+.space{
+  margin-bottom: 0px;
+}
+.space1{
+  margin-top: 1px;
+}
+.bottom-container{
+  background-color: #66bfbf;
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+.button {
+  background-color: #46bfbf;
+  border-radius: 10px;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.contact-me{
+  margin-bottom: 60px;
+}
+.last-tag{
+  color: #eaf6f6;
+  margin-top: 30px;
+}
+.footer-link{
+  color: #11999e;
+  margin-left: 30px;
+  text-decoration: none;
+}
