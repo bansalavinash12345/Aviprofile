@@ -1,4 +1,5 @@
 body {
+  color: #40514e;
   margin : 0;
   text-align: center;
   font-family: 'Merriweather', serif;
@@ -22,6 +23,8 @@ h3 {
   color:#11999e;
   font-family: 'Montserrat', sans-serif;
 }
+
+
 
 .para{
   font-size: 2.5rem;
@@ -86,9 +89,12 @@ hr{
   border-color: grey ;
   border-width: 5px;
   width: 5%;
+  margin : 50px auto;
 }
 .space{
-  margin-bottom: 0px;
+
+  width : 30%;
+  margin: auto;
 }
 .space1{
   margin-top: 1px;
@@ -110,15 +116,23 @@ hr{
   margin: 4px 2px;
   cursor: pointer;
 }
+.button:hover{
+  background-color: #30e3cb;
+ 
+}
 .contact-me{
   margin-bottom: 60px;
 }
 .last-tag{
   color: #eaf6f6;
   margin-top: 30px;
+  font-size: 0.75rem;
 }
 .footer-link{
   color: #11999e;
   margin-left: 30px;
   text-decoration: none;
+}
+.footer-link:hover {
+  color: #EAF6F6;
 }
